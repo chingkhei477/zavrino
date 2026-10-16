@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Zavrino">
+  <defs>
+    <linearGradient id="zg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14605F"/>
+      <stop offset="1" stop-color="#0A2F33"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#zg)"/>
+  <path d="M15.5 18h26L19 45.5h17" fill="none" stroke="#FBF8F1" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="45.5" r="8" fill="#F2A93B"/>
+  <path d="M42.6 45.6l2.4 2.4 4.4-4.8" fill="none" stroke="#0A2F33" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
